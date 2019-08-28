@@ -1,5 +1,5 @@
 # python-classObject_b-cw
-
+INCOMPLETE Score : 0
 Start with a main function and make each problem a function. Call those functions from your main function.
 
 ### Problem 1:
